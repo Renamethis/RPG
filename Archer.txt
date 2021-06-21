@@ -1,0 +1,4 @@
+resources/archer/archer-default
+resources/archer/archer-Run
+resources/archer/archer-Attack
+resources/archer/archer-specAttack

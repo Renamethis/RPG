@@ -1,0 +1,3 @@
+resources/goblin/goblin-Run
+resources/goblin/goblin-Attack
+resources/goblin/goblin-Death

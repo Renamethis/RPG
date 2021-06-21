@@ -1,0 +1,4 @@
+resources/warrior/warrior-Default
+resources/warrior/warrior-Run
+resources/warrior/warrior-Attack
+resources/warrior/warrior-specAttack

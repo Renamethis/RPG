@@ -1,0 +1,4 @@
+resources/wizard/wizard-default
+resources/wizard/wizard-Run
+resources/wizard/wizard-Attack
+resources/wizard/wizard-specAttack

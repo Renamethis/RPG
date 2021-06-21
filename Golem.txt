@@ -1,0 +1,3 @@
+resources/golem/golem-Run
+resources/golem/golem-Attack
+resources/golem/golem-Death
